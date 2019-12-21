@@ -1,5 +1,5 @@
 {
-  "name": "rdf-ext",
+  "name": "rdf-ext-sboljs",
   "version": "0.3.0",
   "description": "Extended Linked Data module",
   "main": "rdf-ext.js",
